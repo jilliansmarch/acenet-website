@@ -18,6 +18,13 @@ are caused by two trailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+### Automatic Numbering List:
 1. thing one
 1. thing two
-24. things three
+24. thing three
+
+### List Orderered List:
+1\. Acenet
+1\. Canada
+3\. Newfoundland
+
