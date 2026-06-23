@@ -17,3 +17,7 @@ are caused by two trailing spaces at the end of a line.
 - Software Carpentries
 - Data Carpentry
 - Library Carpentry
+
+1. thing one
+1. thing two
+24. things three
