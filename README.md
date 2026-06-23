@@ -3,7 +3,7 @@ Repo for learning to make websites with Jekyll and GitHub Pages.
 
 Some **bold** font
 
-# Learning Markdown
+## Learning Markdown
 
 Vanilla text contains *italics* and **bold** words.
 
